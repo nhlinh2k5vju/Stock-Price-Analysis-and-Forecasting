@@ -1,4 +1,0 @@
-pandas
-vnstock3
-openpyxl
-ipykernel
